@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vishhy
+- 👋 Hi, I’m Vishwas
 - 👀 I’m interested in Data Science, Python, Business Analytics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Python Projects
-- 📫 How to reach me mail: sharma.vishwas7788@gamil.com
+- 📫 Reach me through: sharma.vishwas7788@gamil.com
 
 <!---
 vishhy/vishhy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
