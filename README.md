@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vishwas
 - 👀 I’m interested in Data Science, Python, Business Analytics
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Python Projects
+- 💞️ I’m looking to collaborate on Python & Data Science Projects
 - 📫 Reach me through: sharma.vishwas7788@gamil.com
 
 <!---
